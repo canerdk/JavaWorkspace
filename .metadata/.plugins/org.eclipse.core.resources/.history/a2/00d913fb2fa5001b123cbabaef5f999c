@@ -1,7 +1,0 @@
-package oopIntr;
-
-public class Product {
-	String name;
-	double unitPrice;
-	
-}

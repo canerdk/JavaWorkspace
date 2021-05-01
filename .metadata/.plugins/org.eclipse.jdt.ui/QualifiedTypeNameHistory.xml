@@ -14,4 +14,11 @@
     <fullyQualifiedTypeName name="javaTask1.StudentManager"/>
     <fullyQualifiedTypeName name="javaTask1.Student"/>
     <fullyQualifiedTypeName name="javaTask1.UserManager"/>
+    <fullyQualifiedTypeName name="javaTask1.Instructor"/>
+    <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
+    <fullyQualifiedTypeName name="interfaces.Customer"/>
+    <fullyQualifiedTypeName name="interfaces.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="interfaces.Logger"/>
+    <fullyQualifiedTypeName name="interfaces.SmsLogger"/>
+    <fullyQualifiedTypeName name="interfaces.EmailLogger"/>
 </qualifiedTypeNameHistroy>
