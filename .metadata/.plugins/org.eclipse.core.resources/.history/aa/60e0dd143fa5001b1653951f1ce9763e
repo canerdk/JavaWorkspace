@@ -1,7 +1,0 @@
-package oopIntro;
-
-public class ProductManager {
-	public static void addToCart() {
-		System.out.println("Sepete eklendi.");
-	}
-}
